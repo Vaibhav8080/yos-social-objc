@@ -8,8 +8,7 @@ This open-source library allows you to integrate Yahoo login into your iOS app, 
 Find documentation and support on [Yahoo! Developer Network](http://developer.yahoo.com/)
 * Guide to accessing [Yahoo! Social APIs](https://developer.yahoo.com/social/rest_api_guide/index.html)
 * Guide to accessing Yahoo! APIs through [Yahoo! Query Language (YQL)](http://developer.yahoo.com/yql/)
-* Details of the [Yahoo! OAuth1.0a model](https://developer.yahoo.com/oauth/)
-* Yahoo! OAuth1.0a [Authorization flow](https://developer.yahoo.com/oauth/guide/oauth-auth-flow.html)
+* Details of the [Yaho
 
 NOTE: This library implements OAuth1.0a, Yahoo! APIs currently only supports this version of OAuth. OAuth2 is under development at Yahoo! 
 
